@@ -6,7 +6,7 @@ This is a MERN (MongoDB, Express, React, Node) application that allows users to 
 
 All credits for the design, frontend application part and backend api of the website go to [Mohamad Tarhini](https://github.com/mdtarhini)
 
-Visit the backend node.js and express.js API repository [here](https://github.com/abhidadhaniya23/cheat-sheets-maker-server).
+Visit the backend node.js and express.js API repository [here](https://github.com/abhidadhaniya23/cheatsheets-maker-server).
 
 ## Features
 

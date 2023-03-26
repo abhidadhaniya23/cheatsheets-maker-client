@@ -4,10 +4,6 @@ Thank you for your interest in contributing to MERN Cheat Sheet Maker! This proj
 
 Before you start contributing, please review the following guidelines to ensure that your contributions are valuable and can be easily integrated into the project.
 
-## Code of Conduct
-
-All contributors are expected to follow the [Code of Conduct](https://chat.openai.com/CODE_OF_CONDUCT.md) for this project.
-
 ## Getting Started
 
 1.  Fork the repository and clone your fork to your local machine
